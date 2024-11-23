@@ -10,8 +10,7 @@ The whole point of this project was the work on the fundamentals of a webserver;
   2) Bind the Socket: Bind the socket to an IP address and port.
   3) Listen for Connections: Set the socket to listen for incoming connections.
   4) Accept Connections: Accept incoming client connections.
-  5) Read Request: Read the HTTP request sent by the client.
-  6) Send Response: Send an HTTP response back to the client.
-  7) Close the Connection: Close the connection after the response is sent.
+  5) Send Response: Send an HTTP response back to the client.
+  6) Close the Connection: Close the connection after the response is sent.
 
 I think I achieved that with this project!
