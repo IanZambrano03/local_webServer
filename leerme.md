@@ -10,8 +10,7 @@ El objetivo de este proyecto era trabajar en los fundamentos de un servidor web;
   2) Vincular el socket: vincular el socket a una dirección IP y un puerto.
   3) Escuchar conexiones: configure el conector para que escuche las conexiones entrantes.
   4) Aceptar conexiones: aceptar conexiones de clientes entrantes.
-  5) Solicitud de lectura: lea la solicitud HTTP enviada por el cliente.
-  6) Enviar respuesta: envía una respuesta HTTP al cliente.
-  7) Cerrar la conexión: cierre la conexión después de enviar la respuesta.
+  5) Enviar respuesta: envía una respuesta HTTP al cliente.
+  6) Cerrar la conexión: cierre la conexión después de enviar la respuesta.
 
 ¡Creo que lo logré con este proyecto!
